@@ -1,0 +1,32 @@
+name: Sync Dict to JSON
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: ${{!contains(github.event.head_commit.author.name, 'github-actions')}}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+
+      - name: Sync to JSON
+        run: |
+          python to_json.py
+
+      - name: Commit JSON
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: 'auto sync to json'
+          add: './chara_name.json ./chara_profile.json ./unavailable_chara.json'
