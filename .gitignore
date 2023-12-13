@@ -1,0 +1,8 @@
+# VSCode Folder
+.vscode/
+
+# Byte-compiled
+__pycache__/
+
+# Pycharm
+.idea/
