@@ -378,7 +378,7 @@ CHARA_NAME = {
     1348: ["纺希(吉欧·格黑纳)", "ツムギ(ジオ·ゲヘナ)", "Tsumugi(Geo Gehenna)", "GGTsumugi", "光裁", "吉欧裁缝"],
     1349: ["华音", "カノン", "Kanon", "花音", "伽音"],
     1350: ["厄里斯(夏日)", "エリス(サマー)", "Eris(Summer)", "SEris", "水厄里斯", "水厄", "水els"],
-    # 1351: ["雪菲(夏日)", "シェフィ(サマー)", "Shephy(Summer)", "Shefi(Summer)", "Sheffy(Summer)", "SSheffy", "水雪菲", "水菲"],
+    1351: ["雪菲(夏日)", "シェフィ(サマー)", "Shephy(Summer)", "Shefi(Summer)", "Sheffy(Summer)", "SSheffy", "水雪菲", "水菲"],
     # 1352: ["普蕾西亚(夏日)", "プレシア(サマー)", "Precia(Summer)", "SPrecia", "普雷西娅(夏日)", "水猪妹"],
 
 
