@@ -1257,6 +1257,7 @@
     "霞(魔法少女)",
     "カスミ(マジカル)",
     "Kasumi(MagiGirl)",
+    "Kasumi(Magical Girl)",
     "Kasumi(Magical)",
     "MGKasumi",
     "魔法少女霞",
@@ -1272,6 +1273,7 @@
     "栞(魔法少女)",
     "シオリ(マジカル)",
     "Shiori(MagiGirl)",
+    "Shiori(Magical Girl)",
     "Shiori(Magical)",
     "MGShiori",
     "魔法少女栞",
@@ -1537,6 +1539,7 @@
     "莫妮卡(魔法少女)",
     "モニカ(マジカル)",
     "Monika(MagiGirl)",
+    "Monika(Magical Girl)",
     "MGMonika",
     "魔法少女莫妮卡",
     "魔二力",
@@ -1546,6 +1549,7 @@
     "智(魔法少女)",
     "トモ(マジカル)",
     "Tomo(MagiGirl)",
+    "Tomo(Magical Girl)",
     "MGTomo",
     "魔法少女智",
     "琪露诺",
@@ -2583,6 +2587,7 @@
     "クリア(フォールン)",
     "Qualia(Fallen)",
     "Quria(Fallen)",
+    "Qulia(Fallen)",
     "FQuria",
     "可璃亚(堕天使)",
     "可璃亚",
@@ -2912,6 +2917,7 @@
     "Nephi-Nera",
     "Nephi＝Nela",
     "Nefi=Nera",
+    "Nephi Nela",
     "涅妃＝涅菈",
     "涅妃"
   ],
@@ -3369,7 +3375,7 @@
   "1360": [
     "阿刺克涅",
     "アラクネ",
-    "Arache",
+    "Arachne",
     "阿拉克涅",
     "蜘蛛",
     "蜘蛛女"
@@ -3414,7 +3420,7 @@
   "1369": [
     "璐璐伊",
     "ルルィ",
-    "Rurur",
+    "Rurui",
     "章鱼妹",
     "章鱼",
     "露露伊"
@@ -3476,6 +3482,7 @@
     "涅妃·涅罗(鬼面佛心)",
     "ネフィ＝ネラ(鬼面仏心)",
     "Nephi=Nella(Buddha)",
+    "Nephi Nela(Buddha)",
     "BNefi",
     "BNefi=Nera",
     "涅妃＝涅菈(鬼面佛心)",
@@ -3561,6 +3568,31 @@
     "Erika(Garupan)",
     "GPErika",
     "艾丽卡"
+  ],
+  "1395": [
+    "莉莉(女武神)",
+    "リリ(ヴァルキュリア)",
+    "Riri(Valkyrie)",
+    "VRiri",
+    "武莉莉",
+    "武莉"
+  ],
+  "1396": [
+    "可璃亚(女武神)",
+    "クリア(ヴァルキュリア)",
+    "Qulia(Valkyrie)",
+    "VPrecia",
+    "武璃亚",
+    "武可",
+    "武盾妹"
+  ],
+  "1397": [
+    "普蕾西亚(女武神)",
+    "プレシア(ヴァルキュリア)",
+    "Precia(Valkyrie)",
+    "VPrecia",
+    "普雷西娅(女武神)",
+    "武猪妹"
   ],
   "1701": [
     "环奈",
