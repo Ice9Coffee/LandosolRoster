@@ -798,6 +798,7 @@
     "チカ(クリスマス)",
     "Chika(Xmas)",
     "Chika(Holiday)",
+    "Chika(Christmas)",
     "XChika",
     "圣诞千歌",
     "圣千",
@@ -811,6 +812,7 @@
     "クルミ(クリスマス)",
     "Kurumi(Xmas)",
     "Kurumi(Holiday)",
+    "Kurumi(Christmas)",
     "XKurumi",
     "圣诞胡桃",
     "圣诞铃铛",
@@ -821,6 +823,7 @@
     "アヤネ(クリスマス)",
     "Ayane(Xmas)",
     "Ayane(Holiday)",
+    "Ayane(Christmas)",
     "XAyane",
     "圣诞熊锤",
     "蛋锤",
@@ -833,6 +836,7 @@
     "ヒヨリ(ニューイヤー)",
     "Hiyori(NewYear)",
     "NYHiyori",
+    "日和莉(新年)",
     "新年日和",
     "春猫",
     "👘🐱"
@@ -929,6 +933,7 @@
     "ニノン(オーエド)",
     "Ninon(Ooedo)",
     "ONinon",
+    "妮侬(大江户)",
     "江户扇子",
     "忍扇"
   ],
@@ -1121,6 +1126,7 @@
     "ミソギ(ハロウィン)",
     "Misogi(Halloween)",
     "HMisogi",
+    "未奏希(万圣节)",
     "万圣禊",
     "万圣炸弹人",
     "瓜炸弹人",
@@ -1167,6 +1173,7 @@
     "Christina(Xmas)",
     "Cristina(Xmas)",
     "Christina(Holiday)",
+    "Christina(Christmas)",
     "XChristina",
     "圣诞克",
     "圣诞克总",
@@ -1181,6 +1188,7 @@
     "ノゾミ(クリスマス)",
     "Nozomi(Xmas)",
     "Nozomi(Holiday)",
+    "Nozomi(Christmas)",
     "XNozomi",
     "圣诞望",
     "圣诞偶像",
@@ -1192,6 +1200,7 @@
     "イリヤ(クリスマス)",
     "Iriya(Xmas)",
     "Illya(Holiday)",
+    "Illya(Christmas)",
     "XIllya",
     "圣诞伊莉亚",
     "圣诞伊利亚",
@@ -1260,6 +1269,7 @@
     "Kasumi(Magical Girl)",
     "Kasumi(Magical)",
     "MGKasumi",
+    "香澄(魔法少女)",
     "魔法少女霞",
     "魔法侦探",
     "魔法杜宾犬",
@@ -1332,6 +1342,7 @@
     "リン(レンジャー)",
     "Rin(Ranger)",
     "RRin",
+    "铃(游骑兵)",
     "骑兵松鼠",
     "游侠松鼠",
     "游骑兵松鼠",
@@ -1346,6 +1357,7 @@
     "マヒル(レンジャー)",
     "Mahiru(Ranger)",
     "RMahiru",
+    "真阳(游骑兵)",
     "骑兵奶牛",
     "游侠奶牛",
     "游骑兵奶牛",
@@ -1561,6 +1573,7 @@
     "秋乃(圣诞节)",
     "アキノ(クリスマス)",
     "Akino(Xmas)",
+    "Akino(Christmas)",
     "XAkino",
     "圣剑",
     "生煎",
@@ -1574,6 +1587,7 @@
     "咲恋(圣诞节)",
     "サレン(クリスマス)",
     "Saren(Xmas)",
+    "Saren(Christmas)",
     "XSaren",
     "圣诞充电宝",
     "圣电",
@@ -1583,6 +1597,7 @@
     "优花梨(圣诞节)",
     "ユカリ(クリスマス)",
     "Yukari(Xmas)",
+    "Yukari(Christmas)",
     "XYukari",
     "蛋黄",
     "由加莉(圣诞节)",
@@ -1991,6 +2006,7 @@
     "マヒル(クリスマス)",
     "Mahiru(Xmas)",
     "Mahiru(Holiday)",
+    "Mahiru(Christmas)",
     "XMahiru",
     "圣牛",
     "蛋牛",
@@ -2002,6 +2018,7 @@
     "リノ(クリスマス)",
     "Rino(Xmas)",
     "Rino(Holiday)",
+    "Rino(Christmas)",
     "XRino",
     "圣诞妹弓",
     "圣诞璃乃",
@@ -2014,6 +2031,7 @@
     "ミヤコ(クリスマス)",
     "Miyako(Xmas)",
     "Miyako(Holiday)",
+    "Miyako(Christmas)",
     "XMiyako",
     "圣诞布丁",
     "圣诞宫子",
@@ -2152,6 +2170,7 @@
     "Ayumi(Kaitou)",
     "Ayumi(PhantomThief)",
     "PTAyumi",
+    "步美(怪盗)",
     "怪盗路人",
     "怪盗路人妹",
     "怪盗妹"
@@ -2406,6 +2425,7 @@
     "アカリ(クリスマス)",
     "Akari(Xmas)",
     "Akari(Holiday)",
+    "Akari(Christmas)",
     "XAkari",
     "圣妹",
     "圣诞妹法"
@@ -2415,6 +2435,7 @@
     "ヨリ(クリスマス)",
     "Yori(Xmas)",
     "Yori(Holiday)",
+    "Yori(Christmas)",
     "XYori",
     "圣姐",
     "圣诞姐法"
@@ -2424,6 +2445,7 @@
     "ジュン(クリスマス)",
     "Jun(Xmas)",
     "Jun(Holiday)",
+    "Jun(Christmas)",
     "XJun",
     "白骑",
     "圣黑骑",
@@ -2912,7 +2934,7 @@
     "银莲花"
   ],
   "1297": [
-    "涅妃·涅罗",
+    "涅妃‧涅罗",
     "ネフィ＝ネラ",
     "Nephi-Nera",
     "Nephi＝Nela",
@@ -3271,8 +3293,8 @@
     "肥鸡"
   ],
   "1348": [
-    "纺希(吉欧·格黑纳)",
-    "ツムギ(ジオ·ゲヘナ)",
+    "纺希(吉欧‧格黑纳)",
+    "ツムギ(ジオ・ゲヘナ)",
     "Tsumugi(Geo Gehenna)",
     "GGTsumugi",
     "纺希(吉奥·矶汉拿)",
@@ -3373,7 +3395,7 @@
     "沙月"
   ],
   "1360": [
-    "阿刺克涅",
+    "阿剌克涅",
     "アラクネ",
     "Arachne",
     "阿拉克涅",
@@ -3397,6 +3419,7 @@
     "美空(圣诞节)",
     "ミソラ(クリスマス)",
     "Misora(Holiday)",
+    "Misora(Christmas)",
     "圣美空",
     "圣诞美空"
   ],
@@ -3404,6 +3427,7 @@
     "优衣(圣诞节)",
     "ユイ(クリスマス)",
     "Yui(Holiday)",
+    "Yui(Christmas)",
     "圣田",
     "圣衣",
     "圣UE",
@@ -3435,11 +3459,11 @@
     "水扇"
   ],
   "1374": [
-    "霞(修道女)",
+    "霞(修女)",
     "カスミ(シスター)",
     "Kasumi(Sister)",
     "SisKasumi",
-    "香澄(修道女)",
+    "香澄(修女)",
     "修女驴",
     "修女霞",
     "修驴"
@@ -3462,24 +3486,26 @@
     "春妹弓"
   ],
   "1380": [
-    "薇欧莉特(伊邪那美)",
+    "薇欧莉特(黄泉鲸命)",
     "ヴァイオレット(イサナミ)",
     "Violet(Isanami)",
     "IViolet",
+    "薇欧莉特(伊邪那美)",
     "薇奥莉特(伊邪那美)",
     "水紫罗兰",
     "水紫"
   ],
   "1381": [
-    "莱拉耶尔(完美)",
+    "莱拉耶尔(完美帕菲)",
     "ライラエル(パルフェクト)",
     "Lyrael(Perfect)",
     "PLyrael",
+    "莱拉耶尔(完美)",
     "完莱",
     "风莱"
   ],
   "1382": [
-    "涅妃·涅罗(鬼面佛心)",
+    "涅妃‧涅罗(鬼面佛心)",
     "ネフィ＝ネラ(鬼面仏心)",
     "Nephi=Nella(Buddha)",
     "Nephi Nela(Buddha)",
@@ -3575,16 +3601,19 @@
     "Riri(Valkyrie)",
     "VRiri",
     "武莉莉",
-    "武莉"
+    "武莉",
+    "神莉莉"
   ],
   "1396": [
     "可璃亚(女武神)",
     "クリア(ヴァルキュリア)",
     "Qulia(Valkyrie)",
-    "VPrecia",
+    "VQulia",
+    "VQuria",
     "武璃亚",
     "武可",
-    "武盾妹"
+    "武盾妹",
+    "神盾妹"
   ],
   "1397": [
     "普蕾西亚(女武神)",
@@ -3592,7 +3621,8 @@
     "Precia(Valkyrie)",
     "VPrecia",
     "普雷西娅(女武神)",
-    "武猪妹"
+    "武猪妹",
+    "神猪妹"
   ],
   "1701": [
     "环奈",
